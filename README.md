@@ -1,4 +1,4 @@
-# Dokoo Nuxt Integration
+# Dokoo Vue Plugin
 
 ## Installation
 
