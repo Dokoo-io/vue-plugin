@@ -1,4 +1,4 @@
-import { Client } from '@dokoo/content-api'
+import { Client } from '@dokoo/sdk-js'
 import Vue, {PluginObject} from 'vue'
 
 export interface DokooClientOptions {
