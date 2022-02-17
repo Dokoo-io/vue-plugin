@@ -15,7 +15,6 @@ import Dokoo from '@dokoo/vue'
 Vue.use(Dokoo({
   clients: {
     default: {
-      spaceId: '<your-space-id>',
       token: '<your-auth-token>'
     }
   }
